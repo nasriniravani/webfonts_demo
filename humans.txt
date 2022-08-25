@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <Nasrin>
 
 # TECHNOLOGY COLOPHON
 
